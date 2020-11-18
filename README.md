@@ -28,5 +28,6 @@ go run main.go \
 -summary=test-sub-summary \
 -description=test-sub-description \
 -parent-issue-key=BRO-2867 \
+-assignee=bborbe \
 -v=2
 ```
